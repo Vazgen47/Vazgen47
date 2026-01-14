@@ -28,10 +28,7 @@
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
 </p>
 
-### ☁️ Cloud & DevOps
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,docker,firebase" />
-</p>
+
 
 ### 🛠️ Tools & Design
 <p align="left">
